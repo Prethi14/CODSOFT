@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+/*section id full*/
+#full{
+    background-color: #FDCEDF;
+    height: 300vh;
+    
+}
+#full img{
+    float:right;
+    margin-right:7%;
+}
+
+/*id class content*/
+
+.content{
+    padding:20%;
+    font-family: 'Poppins', sans-serif;
+    margin-left: -9%;
+    font-size: 30px;
+}
+.content button{
+    background-color: black;
+    padding:15px 40px;
+    border-radius: 50px;
+    margin-top: 2%;
+    font-size: 25px;
+    
+}
+.about,.resume{
+    color:#FDCEDF;
+    text-decoration: none;
+}
